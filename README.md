@@ -33,5 +33,3 @@ Pour cela, il utilise les technologies suivantes :
 *   [SASS (SCSS)](http://sass-lang.com/)
 *   [jQuery (1.9.1)](https://jquery.com/)
 *   [GulpJS](http://gulpjs.com/)
-
-[En savoir plus](https://github.com/origarti/kickstarterZ)
