@@ -1,0 +1,13 @@
+// Import foundation components
+@import "foundation/foundation.scss";
+
+//import customs functions (no need to precise ".scss" if file name start with "_")
+@import "partials/functions";
+
+// Custom components (no need to precise ".scss" if file name start with "_")
+// @import "custom-components/xxx";
+
+// Import Partials (no need to precise ".scss" if file name start with "_")
+@import "partials/common";
+@import "partials/common-header";
+@import "partials/common-footer";
